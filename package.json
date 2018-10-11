@@ -1,0 +1,35 @@
+{
+  "name": "react-native-easy-ui",
+  "version": "0.0.3",
+  "description": "Easy to implement components usefull for fast creation of some screens",
+  "license": "MIT",
+  "author": "Santiago Montero <santiagojosemontero@gmail.com>",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ui",
+    "easy"
+  ],
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "^22.4.1",
+    "babel-preset-react-native": "^2.1.0",
+    "prop-types": "latest",
+    "react": "16.2.0",
+    "react-native": "^0.57.0",
+    "react-test-renderer": "^16.0.0"
+  }
+}
