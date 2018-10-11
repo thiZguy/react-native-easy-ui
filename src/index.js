@@ -1,6 +1,6 @@
-/*
-* @author Santiago Montero
-*/
+/**
+ * @author Santiago Montero
+ */
 
 /* eslint global-require: 0 */
 
